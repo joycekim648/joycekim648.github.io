@@ -1,0 +1,29 @@
+h1{
+  coclor:#40E0D0;
+  text align: center;
+}
+h2{
+  color:#DFFF00;
+  font-style:italic;
+  text-align:center;
+}
+p{
+  font-family: sans serif;
+}
+ol{
+  line-height: 40px;
+}
+img {
+  height: 350px;
+  width: 330px;
+}
+@media screen and (min-width: 480px){
+  body{
+     background-color: black;
+     color: white;
+  }
+}
+@media screen and(min-width: 768px){
+  body{
+  background-color: yellowgreen;
+}
